@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-14T13:50:01" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<kaspi_catalog date="2026-11-14T14:50:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <company>Minel</company><merchantid>MINEL</merchantid><offers>
 <offer sku="00002"><model>BERGAMO Magic Snail BB SPF 50 крем Универсальный</model><availabilities><availability available="yes" storeId="PP1" stockCount="23"/></availabilities><price>3820</price></offer>
 <offer sku="00004"><model>Aromasq A 1009 EDP 100 ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>2307</price></offer>
@@ -11,9 +11,9 @@
 <offer sku="00027"><model>20305 Флакон стекло спрей 5 мл (обычн)</model><availabilities><availability available="yes" storeId="PP1" stockCount="21"/></availabilities><price>384</price></offer>
 <offer sku="00033"><model>Aromasq A1044 EDP 100 ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>2847</price></offer>
 <offer sku="00039"><model>Armaf Tag-Him дезодорант для мужчин 200 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>3500</price></offer>
-<offer sku="00040"><model>Angelina Le Secret 100ml (LPG Collection)6291139585757</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>8258</price></offer>
+<offer sku="00040"><model>Angelina Le Secret 100ml (LPG Collection)6291139585757</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>8258</price></offer>
 <offer sku="00041"><model>Armaf Tres Four дезодорант-антиперспирант для женщин 200 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>3500</price></offer>
-<offer sku="00046"><model>AROMASQ A1043 саваш</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>2466</price></offer>
+<offer sku="00046"><model>AROMASQ A1043 саваш</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>3500</price></offer>
 <offer sku="00047"><model>Armaf Club De Nuit women парфюмированный спрей 200 мл, для женщин</model><availabilities><availability available="yes" storeId="PP1" stockCount="17"/></availabilities><price>3500</price></offer>
 <offer sku="00049"><model>AROMASQ A1063 бакарат</model><availabilities><availability available="yes" storeId="PP1" stockCount="17"/></availabilities><price>2498</price></offer>
 <offer sku="00050"><model>6356 Карандаш 0323</model><availabilities><availability available="yes" storeId="PP1" stockCount="44"/></availabilities><price>455</price></offer>
@@ -103,7 +103,7 @@
 <offer sku="00482"><model>Essence Бронзер жидкий DROP OF sunshine BRONZING DROPS</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>3658</price></offer>
 <offer sku="00494"><model>ESSENCE КАРАНДАШ ДЛЯ БРОВЕЙ 04_REGULAR</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>1494</price></offer>
 <offer sku="00497"><model>Essence карандаш Brow Wax Pen 01</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4500</price></offer>
-<offer sku="00499"><model>Essence лак Gel nail colour 54 - plum IT UP 8 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>1991</price></offer>
+<offer sku="00499"><model>Essence лак Gel nail colour 54 - plum IT UP 8 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>1988</price></offer>
 <offer sku="00501"><model>Essence Тушь для ресниц get big lashes volume boost</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>2074</price></offer>
 <offer sku="00502"><model>Essence Пудра компактная матирующая #02 soft beige</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2476</price></offer>
 <offer sku="00503"><model>ESSENCE ТУШЬ ALL EYES ON ME MULTI-EFFECT_REGULAR</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>1796</price></offer>
@@ -117,7 +117,7 @@
 <offer sku="00540"><model>Essence тени прессованные Глаза 02-Berry Crush</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>1512</price></offer>
 <offer sku="00548"><model>Eveline Cosmetics лак 3 в 1 Экспресс-сушка и защитное покрытие прозрач</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>1991</price></offer>
 <offer sku="00549"><model>Essence тени жидкие Dewy EYE GLOSS Dewy EYE GLOSS</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>2142</price></offer>
-<offer sku="00550"><model>Eveline q10+r депилятор ультрабыстрый 3 минуты 8in1 (т-125мл).</model><availabilities><availability available="yes" storeId="PP1" stockCount="13"/></availabilities><price>2807</price></offer>
+<offer sku="00550"><model>Eveline q10+r депилятор ультрабыстрый 3 минуты 8in1 (т-125мл).</model><availabilities><availability available="yes" storeId="PP1" stockCount="12"/></availabilities><price>2807</price></offer>
 <offer sku="00552"><model>Farm stay peeling gel real avocado</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>1704</price></offer>
 <offer sku="00560"><model>Essence тени прессованные Soft Touch Eyeshadow 09 Orange Apricot Crush</model><availabilities><availability available="yes" storeId="PP1" stockCount="11"/></availabilities><price>1512</price></offer>
 <offer sku="00562"><model>ESSENCE ТУШЬ ДЛЯ РЕСНИЦ I LOVE EXTREME CRAZY_REGULAR</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2925</price></offer>
@@ -137,7 +137,7 @@
 <offer sku="00600"><model>Eveline Cosmetics средство Укрепляющее с бриллиантами 12 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>1991</price></offer>
 <offer sku="00605"><model>Gabrini Derma 24h matte SPF15 тональный крем 107 40 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="14"/></availabilities><price>1991</price></offer>
 <offer sku="00608"><model>Gabrini Highlighter хайлайтер 07</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2367</price></offer>
-<offer sku="00615"><model>Gabrini Professional пудра Matte powde 4</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2277</price></offer>
+<offer sku="00615"><model>Gabrini Professional пудра Matte powde 4</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2275</price></offer>
 <offer sku="00616"><model>Gabrini Matte Powder сухая 02 бежевый</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>1810</price></offer>
 <offer sku="00617"><model>Gabrini гель Brow Fixing &amp; Soap effect прозрачный</model><availabilities><availability available="yes" storeId="PP1" stockCount="39"/></availabilities><price>1319</price></offer>
 <offer sku="00619"><model>Gabrini The Manizer Sisters Highlighter хайлайтер B</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>1810</price></offer>
@@ -238,7 +238,7 @@
 <offer sku="01373"><model>Карандаш Highliter Chameleon/Хамелеон</model><availabilities><availability available="yes" storeId="PP1" stockCount="19"/></availabilities><price>455</price></offer>
 <offer sku="01374"><model>Карандаш д/бровей автоматический 01 светло-коричневый</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>2893</price></offer>
 <offer sku="01375"><model>Карандаш MAKE-UP SOFFIO для губ Delight/Наслаждение</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>450</price></offer>
-<offer sku="01379"><model>Доктор шампунь от перхоти, 200мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>1732</price></offer>
+<offer sku="01379"><model>Доктор шампунь от перхоти, 200мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>1728</price></offer>
 <offer sku="01393"><model>Имбирь шампунь 500 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="26"/></availabilities><price>1470</price></offer>
 <offer sku="01395"><model>Жидкий бронзер Melted Sun Liquid Bronzer, 005 Tan Lines CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4223</price></offer>
 <offer sku="01401"><model>Catrice Soft Glam Filter Fluid тональный крем 030 Medium 30 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>6296</price></offer>
@@ -366,7 +366,7 @@
 <offer sku="02068"><model>Премиум-крем с золотом и муцином улитки Medi-Peel 24K Gold Snail Cream</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>12513</price></offer>
 <offer sku="02074"><model>Регенерирующий крем с муцином улитки для ухода за зрелой кожей Farmsta</model><availabilities><availability available="yes" storeId="PP1" stockCount="10"/></availabilities><price>6175</price></offer>
 <offer sku="02075"><model>Солнцезащитный крем Cellio Green Tea</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>1606</price></offer>
-<offer sku="02082"><model>Пуховка для пудры 1шт</model><availabilities><availability available="yes" storeId="PP1" stockCount="31"/></availabilities><price>806</price></offer>
+<offer sku="02082"><model>Пуховка для пудры 1шт</model><availabilities><availability available="yes" storeId="PP1" stockCount="31"/></availabilities><price>804</price></offer>
 <offer sku="02085"><model>Пудра матирующая Mattifying compact powder brighten up! Banana powder,</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>2478</price></offer>
 <offer sku="02086"><model>Пудра Gabrini BB Powder сухая 02 бежевый</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>1701</price></offer>
 <offer sku="02087"><model>Пудра ART SOFFIO FULL COVERAGE сухая СР-039-01 Светлый бежевый</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>2175</price></offer>
@@ -383,7 +383,7 @@
 <offer sku="02169"><model>Спонж Beautyblender розовый</model><availabilities><availability available="yes" storeId="PP1" stockCount="40"/></availabilities><price>966</price></offer>
 <offer sku="02176"><model>Тени для век 202 Quartet Terracotta Gabrini  Габрини</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>1900</price></offer>
 <offer sku="02186"><model>Тампоны женские гигиенические Тюльпан | Clean point</model><availabilities><availability available="yes" storeId="PP1" stockCount="107"/></availabilities><price>538</price></offer>
-<offer sku="02187"><model>спрей подмышки зеленый тианже</model><availabilities><availability available="yes" storeId="PP1" stockCount="40"/></availabilities><price>832</price></offer>
+<offer sku="02187"><model>спрей подмышки зеленый тианже</model><availabilities><availability available="yes" storeId="PP1" stockCount="39"/></availabilities><price>832</price></offer>
 <offer sku="02192"><model>Румяна в стике Blushin' Charm Multi Stick, 040 Sparkle Lover CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>5782</price></offer>
 <offer sku="02194"><model>Стик для лица Soft Glam Filter Stick, 020 Light/Medium CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3894</price></offer>
 <offer sku="02195"><model>Стик с эффектом мягкого свечения Soft Glam Filter Stick 030</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3894</price></offer>
@@ -432,14 +432,14 @@
 <offer sku="02410"><model>Распродажа 500</model><availabilities><availability available="yes" storeId="PP1" stockCount="18"/></availabilities><price>1911</price></offer>
 <offer sku="02413"><model>Массажная щетка для головы. Силиконовая щетка для мытья волос. Массаже</model><availabilities><availability available="yes" storeId="PP1" stockCount="46"/></availabilities><price>1530</price></offer>
 <offer sku="02422"><model>Полиэтиленовый пакет Бантик (средний)</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>193</price></offer>
-<offer sku="02424"><model>Пакет Минель майка 25*40</model><availabilities><availability available="yes" storeId="PP1" stockCount="748"/></availabilities><price>166</price></offer>
+<offer sku="02424"><model>Пакет Минель майка 25*40</model><availabilities><availability available="yes" storeId="PP1" stockCount="743"/></availabilities><price>166</price></offer>
 <offer sku="02425"><model>Пакет 13*16 крафт-бумага (ассорти цветов)</model><availabilities><availability available="yes" storeId="PP1" stockCount="19"/></availabilities><price>291</price></offer>
 <offer sku="02430"><model>Catrice Ten!sational 10 in 1 Dream Primer основа под макияж для лица 3</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>4985</price></offer>
 <offer sku="02440"><model>Relouis Помада губная жидкая матовая "Nude Matte 10</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>3218</price></offer>
 <offer sku="02441"><model>Relouis Помада губная жидкая матовая "Nude Matte 11</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>3218</price></offer>
 <offer sku="02442"><model>Relouis Помада губная жидкая матовая "Nude Matte 13</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>3218</price></offer>
 <offer sku="02443"><model>Relouis Помада губная жидкая матовая "Nude Matte 14</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>3218</price></offer>
-<offer sku="02445"><model>Relouis Помада губная жидкая матовая "Nude Matte 18</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>3218</price></offer>
+<offer sku="02445"><model>Relouis Помада губная жидкая матовая "Nude Matte 18</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>3218</price></offer>
 <offer sku="02446"><model>Relouis Помада губная жидкая матовая "Nude Matte 23</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>3218</price></offer>
 <offer sku="02447"><model>Relouis Помада губная жидкая матовая "Nude Matte 24</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>3218</price></offer>
 <offer sku="02450"><model>Восстанавливающий крем для лица с муцином улитки [Deoproce] Snail Reco</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>6176</price></offer>
@@ -500,7 +500,7 @@
 <offer sku="02628"><model>Faberlic Акваспрей-антистатик для одежды и тканей FABERLIC HOME, 200 м</model><availabilities><availability available="yes" storeId="PP1" stockCount="13"/></availabilities><price>1560</price></offer>
 <offer sku="02630"><model>Стойкая крем-краска для волос «Expert» Faberlic тон 3.05 Тёмный каштан</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>2470</price></offer>
 <offer sku="02664"><model>Сыворотка для ресниц Eveline Advance Volumiere активная 3 в 1 тон проз</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>2436</price></offer>
-<offer sku="02669"><model>Тушь для ресниц Essence Maximum Definition</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3075</price></offer>
+<offer sku="02669"><model>Тушь для ресниц Essence Maximum Definition</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3071</price></offer>
 <offer sku="02671"><model>Освежающий солнцезащитный крем Deoproce Hyaluronic Cooling Sun Gel SPF</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>3120</price></offer>
 <offer sku="02677"><model>Солнцезащитный крем для проблемной кожи с морской водой Round Lab 1025</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>12222</price></offer>
 <offer sku="02688"><model>Стойкая крем-краска для волос Expert, тон «6.0 Тёмный блондин»</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2470</price></offer>
@@ -574,7 +574,7 @@
 <offer sku="02982"><model>Жидкая матовая губная помада Stay. True, тон «Дикая роза»</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2457</price></offer>
 <offer sku="02988"><model>Мист для тела и волос Coco Rituals</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>1610</price></offer>
 <offer sku="02991"><model>Гель для глубокого очищения кожи TeenSkin</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2183</price></offer>
-<offer sku="02994"><model>Гигиенические прокладки на травяной основе Fu Le Mei</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3542</price></offer>
+<offer sku="02994"><model>Гигиенические прокладки на травяной основе Fu Le Mei</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>3542</price></offer>
 <offer sku="02995"><model>Стойкая крем-краска для волос Expert, тон «9.1 Очень светлый блондин п</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2470</price></offer>
 <offer sku="03013"><model>Бальзам для губ «Манго и папайя» Vitamania</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>1394</price></offer>
 <offer sku="03014"><model>Дезодорант для обуви Shoe Care</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>2898</price></offer>
@@ -629,7 +629,7 @@
 <offer sku="03192"><model>Увлажняющий крем против жирного блеска Celimax Oil Control Moisturizin</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>13524</price></offer>
 <offer sku="03193"><model>Солнцезащитный крем с комплексом церамидов Celimax Dual Barrier Watery</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>9380</price></offer>
 <offer sku="03195"><model>Подтягивающая сыворотка с ретинолом и микроиглами Celimax The Vita-A R</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>11931</price></offer>
-<offer sku="03196"><model>Гель-пенка для умывания с комплексом церамидов Celimax Dual Barrier Mi</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>11640</price></offer>
+<offer sku="03196"><model>Гель-пенка для умывания с комплексом церамидов Celimax Dual Barrier Mi</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>11640</price></offer>
 <offer sku="03197"><model>Барьерный крем с комплексом церамидов Celimax Dual Barrier Skin Wearab</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>12420</price></offer>
 <offer sku="03198"><model>Барьерная сыворотка-бустер с комплексом церамидов Celimax Dual Barrier</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>12222</price></offer>
 <offer sku="03203"><model>Фиксирующий спрей с эффектом сияния Shake Fix Glow Spray CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>4223</price></offer>
@@ -637,7 +637,7 @@
 <offer sku="03208"><model>Бальзам для губ CATRICE Care In Colours Lip Balm, тон 080, 3 г</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>3381</price></offer>
 <offer sku="03210"><model>Блеск для губ Gloss Obsessed Lip Glaze, 010 CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="11"/></availabilities><price>2410</price></offer>
 <offer sku="03211"><model>Блеск для губ 020</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2479</price></offer>
-<offer sku="03212"><model>Блеск для губ CATRICE Gloss Obsessed Lip Glaze, тон 030, 2.5 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>2410</price></offer>
+<offer sku="03212"><model>Блеск для губ CATRICE Gloss Obsessed Lip Glaze, тон 030, 2.5 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>2410</price></offer>
 <offer sku="03213"><model>Блеск для губ CATRICE Gloss Obsessed Lip Glaze, тон 040, 2.5 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2410</price></offer>
 <offer sku="03214"><model>Блеск для губ Gloss Obsessed Lip Glaze, 050 CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2410</price></offer>
 <offer sku="03215"><model>Матовая жидкая помада для губ Endless Matte Liquid Lipstick, 010 CATRI</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>4086</price></offer>
@@ -691,7 +691,7 @@
 <offer sku="03313"><model>Solo man Aromasq 50 ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="23"/></availabilities><price>4990</price></offer>
 <offer sku="03314"><model>Rare Aromasq 50 ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3990</price></offer>
 <offer sku="03318"><model>Шейкеры Камиль Herbalife</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>3415</price></offer>
-<offer sku="03328"><model>Catrice Карандаш для бровей All In One Brow Perfector 10 Blonde</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2780</price></offer>
+<offer sku="03328"><model>Catrice Карандаш для бровей All In One Brow Perfector 10 Blonde</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2772</price></offer>
 <offer sku="03334"><model>Успокаивающий крем с ресвератролом Dr. Althea 345 Relief Cream</model><availabilities><availability available="yes" storeId="PP1" stockCount="11"/></availabilities><price>14076</price></offer>
 <offer sku="03339"><model>ART SOFFIO Magic Brilliance помада 703 Весеннее утро</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>1824</price></offer>
 <offer sku="03354"><model>Жидкие сияющие тени для век Le Carrousel Magique</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>2048</price></offer>
@@ -730,7 +730,7 @@
 <offer sku="03426"><model>Увлажняющая пенка для умывания AXIS-Y Sunday Morning Refreshing Cleans</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>7946</price></offer>
 <offer sku="03428"><model>Пудра компактная Catrice Sun Lover Glow Bronzing Powder Бронзирующая с</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>4223</price></offer>
 <offer sku="03429"><model>Хайлайтер для лица Catrice More Than Glow Highlighter (5,9 г) - 010 Ul</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4248</price></offer>
-<offer sku="03431"><model>Бальзам для губ ESSENCE Juicy Bomb glossy butter balm, тон 05</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>2702</price></offer>
+<offer sku="03431"><model>Бальзам для губ ESSENCE Juicy Bomb glossy butter balm, тон 05</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>2694</price></offer>
 <offer sku="03432"><model>Блеск для губ Essence Chili Bomb 01 Strawberry Salsa</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>1433</price></offer>
 <offer sku="03435"><model>Бронзер Soft Touch Butter Bronzer, 20 golden buttercream essence</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2476</price></offer>
 <offer sku="03437"><model>Карандаш для губ 8h matte comfort lipliner, 19 Burgundy Bestie essence</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>1673</price></offer>
@@ -937,9 +937,9 @@
 <offer sku="03918"><model>Concealer Hydrating Longwear Silky Blur 180</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>3159</price></offer>
 <offer sku="03919"><model>Concealer Hydrating Longwear Silky Blur 20,</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>3159</price></offer>
 <offer sku="03929"><model>Лак для ногтей gel nail polish, 16 essence</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>1673</price></offer>
-<offer sku="03931"><model>Essence gel nail polish 21 BUBBLE RUSH</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>2204</price></offer>
-<offer sku="03933"><model>Лак для ногтей gel nail polish, 25 essence</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2204</price></offer>
-<offer sku="03935"><model>Essence gel nail polish 31 SKY’S THE LIMIT</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2117</price></offer>
+<offer sku="03931"><model>Essence gel nail polish 21 BUBBLE RUSH</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>2196</price></offer>
+<offer sku="03933"><model>Лак для ногтей gel nail polish, 25 essence</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>2196</price></offer>
+<offer sku="03935"><model>Essence gel nail polish 31 SKY’S THE LIMIT</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2109</price></offer>
 <offer sku="03939"><model>Gel nail polish Nail - 39: Cool By The Pool</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2328</price></offer>
 <offer sku="03943"><model>Hydra kiss LIP OIL 10 - Sugar Sparkle</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>2925</price></offer>
 <offer sku="03944"><model>Matte lipstick with a blurred finish BLUR soufflé - 01: Deep Scroll</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>3136</price></offer>
@@ -1008,7 +1008,7 @@
 <offer sku="04045"><model>SimplyO Biotin набор по уходу за волосами для женщин | Набор КМ 153156</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>31094</price></offer>
 <offer sku="04050"><model>essence Lipgloss What The Fluff?! 01 Cloudy Kiss, 10 ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3213</price></offer>
 <offer sku="04051"><model>*What The Fluff?!* - Mattifying Facial Balm On Cloud Candy</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>3970</price></offer>
-<offer sku="04052"><model>Essence What The Fluff?! Palette 01 Cotton Candy Skies 11.6 g</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>9999</price></offer>
+<offer sku="04052"><model>Essence What The Fluff?! Palette 01 Cotton Candy Skies 11.6 g</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>9999</price></offer>
 <offer sku="04053"><model>What The Fluff?!* - Tassel Duo Fluff Yeah!</model><availabilities><availability available="yes" storeId="PP1" stockCount="3"/></availabilities><price>3645</price></offer>
 <offer sku="04054"><model>*What The Fluff?!* - Lip tint Candy Stain</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>3907</price></offer>
 <offer sku="04056"><model>Блеск для губ Pistachio Cream Delight Milky Drip Lip Gloss CATRICE</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4099</price></offer>
@@ -1033,11 +1033,11 @@
 <offer sku="04092"><model>Aromasq Good Girl 50ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>3990</price></offer>
 <offer sku="04093"><model>Aromasq  A1072 100ml женский</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>3998</price></offer>
 <offer sku="04094"><model>AQUARIUS LA STEE 100ml мужской парфюм</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>9000</price></offer>
-<offer sku="04095"><model>COSMO маска для лица с экстратом зеленого яблока. Увлажняет и питает к</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>3054</price></offer>
+<offer sku="04095"><model>COSMO маска для лица с экстратом зеленого яблока. Увлажняет и питает к</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>3050</price></offer>
 <offer sku="04096"><model>Cosmo - Очищающая маска для лица с нимом, 125 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>1911</price></offer>
-<offer sku="04097"><model>Традиционная травяная маска для лица Cosmo Optin, 125 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2422</price></offer>
-<offer sku="04098"><model>Маска для лица Cosmo Mulberry 125 г – осветляющая и антиоксидантная ма</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>3196</price></offer>
-<offer sku="04099"><model>Cosmo - Маска для лица для удаления загара с апельсином, 125 мл отбели</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>3205</price></offer>
+<offer sku="04097"><model>Традиционная травяная маска для лица Cosmo Optin, 125 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="6"/></availabilities><price>2418</price></offer>
+<offer sku="04098"><model>Маска для лица Cosmo Mulberry 125 г – осветляющая и антиоксидантная ма</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>3192</price></offer>
+<offer sku="04099"><model>Cosmo - Маска для лица для удаления загара с апельсином, 125 мл отбели</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>3201</price></offer>
 <offer sku="04101"><model>BRIGHT CRYSTAL 80ml LA STEE</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>14541</price></offer>
 <offer sku="04102"><model>Шоколадный / Кофейный гель для душа Reveal (1000 мл)</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>7425</price></offer>
 <offer sku="04103"><model>Revel Coconut Shower Gel (Гель для душа Revel с кокосом) объемом 1000 </model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>7425</price></offer>
@@ -1092,7 +1092,7 @@
 <offer sku="04179"><model>Cosmolive Hydro Up! Face Serum</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>4100</price></offer>
 <offer sku="04180"><model>Сыворотка для лица Smooth Up! Face Serum против акне с AHA, BHA, Бакуч</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>4430</price></offer>
 <offer sku="04181"><model>Гель для умывания лица для жирной кожи, 390 мл COSMOLIVE</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>4990</price></offer>
-<offer sku="04182"><model>Гель для умывания для чувствительной кожи, 390 мл COSMOLIVE</model><availabilities><availability available="yes" storeId="PP1" stockCount="11"/></availabilities><price>4990</price></offer>
+<offer sku="04182"><model>Гель для умывания для чувствительной кожи, 390 мл COSMOLIVE</model><availabilities><availability available="yes" storeId="PP1" stockCount="10"/></availabilities><price>4990</price></offer>
 <offer sku="04183"><model>Омолаживающее очищающее масло для лица, 390 мл COSMOLIVE</model><availabilities><availability available="yes" storeId="PP1" stockCount="12"/></availabilities><price>4990</price></offer>
 <offer sku="04184"><model>Мицеллярная вода для жирной кожи, 390 мл COSMOLIVE</model><availabilities><availability available="yes" storeId="PP1" stockCount="10"/></availabilities><price>4430</price></offer>
 <offer sku="04185"><model>Лосьон для тела с 10% мочевиной для чувствительной кожи, 300 мл, COSMO</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>4430</price></offer>
@@ -1108,10 +1108,10 @@
 <offer sku="04198"><model>Bioxcin Quantum Премиум сыворотка 100 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>6534</price></offer>
 <offer sku="04199"><model>Bioxcin Keratin &amp; Argan Repair Shampoo 300 ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="16"/></availabilities><price>3304</price></offer>
 <offer sku="04200"><model>Жидкий кондиционер для восстановления с кератином и аргановым маслом 1</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>3200</price></offer>
-<offer sku="04201"><model>Маска для волос Bioxcin с кератином и аргановым маслом, 225 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="27"/></availabilities><price>6415</price></offer>
+<offer sku="04201"><model>Маска для волос Bioxcin с кератином и аргановым маслом, 225 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="26"/></availabilities><price>6415</price></offer>
 <offer sku="04202"><model>Биоксин Масло для ухода за волосами с кератином и арганой 150 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="14"/></availabilities><price>3888</price></offer>
 <offer sku="04203"><model>Шампунь Bioxcin Коллаген и Биотин для объема 300ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>3398</price></offer>
-<offer sku="04204"><model>Collagen &amp; Biotin Volumizing Liquid Hair Conditioner 150 ml | BIOXCIN </model><availabilities><availability available="yes" storeId="PP1" stockCount="27"/></availabilities><price>3032</price></offer>
+<offer sku="04204"><model>Collagen &amp; Biotin Volumizing Liquid Hair Conditioner 150 ml | BIOXCIN </model><availabilities><availability available="yes" storeId="PP1" stockCount="26"/></availabilities><price>3032</price></offer>
 <offer sku="04205"><model>Увлажняющий шампунь для сухих и поврежденных волос Bioxcin с питательн</model><availabilities><availability available="yes" storeId="PP1" stockCount="35"/></availabilities><price>3801</price></offer>
 <offer sku="04206"><model>Жидкий кондиционер для волос Bioxcin с питательными маслами, 200 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="18"/></availabilities><price>3032</price></offer>
 <offer sku="04207"><model>Ночная антивозрастная сыворотка против морщин Bioxcin Age Reverse</model><availabilities><availability available="yes" storeId="PP1" stockCount="13"/></availabilities><price>6500</price></offer>
@@ -1202,7 +1202,7 @@
 <offer sku="04360"><model>Ночной омолаживающий крем для лица Retinol 24/7</model><availabilities><availability available="yes" storeId="PP1" stockCount="2"/></availabilities><price>2772</price></offer>
 <offer sku="04361"><model>Спрей-пятновыводитель с энзимами Soo-Yun</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>1624</price></offer>
 <offer sku="04363"><model>Даршан Сандал Майсур Агарбати 20 шт.</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>1198</price></offer>
-<offer sku="04365"><model>Помада для губ Ruta GLAMOUR увлажняющая тон 34 секрет совершенства</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2477</price></offer>
+<offer sku="04365"><model>Помада для губ Ruta GLAMOUR увлажняющая тон 34 секрет совершенства</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>2476</price></offer>
 <offer sku="04372"><model>Bioxcin Мужской шампунь против перхоти и выпадения волос «Men+Sport»</model><availabilities><availability available="yes" storeId="PP1" stockCount="11"/></availabilities><price>4872</price></offer>
 <offer sku="04373"><model>Питательное масло для волос Bioxcin, 150 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="18"/></availabilities><price>4477</price></offer>
 <offer sku="04374"><model>Cosmolive Splash Bohemian Goddes 250 мл мист для тела</model><availabilities><availability available="yes" storeId="PP1" stockCount="14"/></availabilities><price>2840</price></offer>
@@ -1285,7 +1285,6 @@
 <offer sku="04474"><model>Liquid blush in serum Colour Flush Dewy - 010: Fade To Pink</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4225</price></offer>
 <offer sku="04475"><model>Liquid blush in serum Colour Flush Dewy - 020: Fade To Pink</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4225</price></offer>
 <offer sku="04476"><model>Liquid blush in serum Colour Flush Dewy - 030</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>4225</price></offer>
-<offer sku="04478"><model>Lip tint Water Glaze - 010: Liquid Desire</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>3600</price></offer>
 <offer sku="04479"><model>Lip tint Water Glaze - 020</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>3600</price></offer>
 <offer sku="04480"><model>Lip tint Water Glaze - 030</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>3600</price></offer>
 <offer sku="04481"><model>Основа тональная Skin Like Luminous Foundation, 012C</model><availabilities><availability available="yes" storeId="PP1" stockCount="1"/></availabilities><price>6460</price></offer>
@@ -1307,7 +1306,7 @@
 <offer sku="04505"><model>SIGNATURE COLLECTION \VERSACE MAN EAU FRAICHE\ 90ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="10"/></availabilities><price>9990</price></offer>
 <offer sku="04506"><model>SIGNATURE COLLECTION кирки 90мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="10"/></availabilities><price>9990</price></offer>
 <offer sku="04507"><model>SIGNATURE COLLECTION эклат 90мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>9990</price></offer>
-<offer sku="04508"><model>VENTURE LA STEE 100ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="5"/></availabilities><price>7226</price></offer>
+<offer sku="04508"><model>VENTURE LA STEE 100ml</model><availabilities><availability available="yes" storeId="PP1" stockCount="4"/></availabilities><price>7226</price></offer>
 <offer sku="04509"><model>La Parfum Galleria Andreada парфюмерная вода унисекс 100 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>8298</price></offer>
 <offer sku="04510"><model>MNL Набор парфюмерный Дуэт ароматов для неё: Signature Collection 90 м</model><availabilities><availability available="yes" storeId="PP1" stockCount="11"/></availabilities><price>12610</price></offer>
 <offer sku="04511"><model>MNL Набор парфюмерный Дуэт ароматов для него: Aromasq Solo Man 50 мл +</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>8710</price></offer>
@@ -1315,7 +1314,7 @@
 <offer sku="04513"><model>Cosmolive Набор Аромат и мист для неё: парфюмерная вода Valentia 100 м</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>12700</price></offer>
 <offer sku="04514"><model>Cosmolive Набор для него: парфюм Noble 100 мл + шампунь против перхоти</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>13120</price></offer>
 <offer sku="04515"><model>Cosmolive Набор Кератиновый уход для волос: шампунь Keratin + кондицио</model><availabilities><availability available="yes" storeId="PP1" stockCount="13"/></availabilities><price>12140</price></offer>
-<offer sku="04516"><model>Cosmolive Набор Уход для чувствительной кожи: гель для умывания + Aqua</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>15440</price></offer>
+<offer sku="04516"><model>Cosmolive Набор Уход для чувствительной кожи: гель для умывания + Aqua</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>15440</price></offer>
 <offer sku="04517"><model>Cosmolive Набор Чистая кожа против акне: пенка + сыворотка Smooth Up +</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>14070</price></offer>
 <offer sku="04520"><model>MNL Набор Аромат и спрей для тела для неё: Signature Collection S CLII</model><availabilities><availability available="yes" storeId="PP1" stockCount="8"/></availabilities><price>11710</price></offer>
 <offer sku="04521"><model>MNL Набор Для него: аромат и парфюмированный дезодорант: Signature Col</model><availabilities><availability available="yes" storeId="PP1" stockCount="7"/></availabilities><price>11970</price></offer>
@@ -1333,7 +1332,7 @@
 <offer sku="04546"><model>Natureby Green Tea Essence Mask Sheet — это листовая экспресс-маска с </model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>425</price></offer>
 <offer sku="04547"><model>Маска для лица Natureby Collagen Essence Mask Sheet тканевая маска с к</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>425</price></offer>
 <offer sku="04548"><model>Тканевая маска с комплексом центеллы азиатской в основе состава, обесп</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>425</price></offer>
-<offer sku="04549"><model>Маска с экстрактом авокадо Natureby Avocado Essence Mask Sheet подойде</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>353</price></offer>
+<offer sku="04549"><model>Маска с экстрактом авокадо Natureby Avocado Essence Mask Sheet подойде</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>345</price></offer>
 <offer sku="04550"><model>Fortheskin Super Food Real Vegifarm Double Shot Mask Olive</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>425</price></offer>
 <offer sku="04551"><model>Tenzero маска тканевая для лица, маска, с витаминами, 25 мл</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>329</price></offer>
 <offer sku="04552"><model>TENZERO Маска для лица с витамином C TRANEXAMIC ACID VITAMIN C AMPOULE</model><availabilities><availability available="yes" storeId="PP1" stockCount="9"/></availabilities><price>425</price></offer>
