@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<merchant_offers date="2026-11-17T16:53:51+05:00" xmlns="halyk_market">
+<?xml version="1.0" encoding="utf-8"?>
+<merchant_offers date="2026-11-17T17:28:07+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <company>Minel</company><merchantid>47791</merchantid><offers>
 <offer sku="00002"><model>BERGAMO Magic Snail BB SPF 50 крем Универсальный</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="21"/></stocks><price>3820</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="00004"><model>Aromasq A 1009 EDP 100 ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>2307</price><loanPeriod>3</loanPeriod></offer>
@@ -205,7 +205,7 @@
 <offer sku="01093"><model>Масло для губ Vivienne Sabo Dessert a Levres тон 05</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>4659</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01099"><model>Анисовые таблетки</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="71"/></stocks><price>750</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01119"><model>бальзам имбирь 500 гр</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="17"/></stocks><price>2250</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="01132"><model>Барьерный кремовый тонер Celimax Dual Barrier Creamy Toner</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>12513</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="01132"><model>Барьерный кремовый тонер Celimax Dual Barrier Creamy Toner</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>12513</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01141"><model>Благовония Лаванда Darshan квадрат, 8 палочек</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="42"/></stocks><price>393</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01147"><model>Благовония Сандал Darshan квадрат, 8 палочек</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="20"/></stocks><price>385</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01171"><model>Блеск для губ Extreme Shine Volume Lipgloss, 01 Crystal Clear прозрачн</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>1935</price><loanPeriod>3</loanPeriod></offer>
@@ -248,7 +248,7 @@
 <offer sku="01373"><model>Карандаш ART SOFFIO Highliter тон 06 Chameleon (хамелеон)</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="19"/></stocks><price>455</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01374"><model>Карандаш д/бровей автоматический 01 светло-коричневый</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>3444</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01375"><model>Карандаш MAKE-UP SOFFIO для губ Delight/Наслаждение</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>450</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="01379"><model>Шампунь от перхоти Tree Doctor Anti-Dandruff, 200 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>1726</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="01379"><model>Шампунь от перхоти Tree Doctor Anti-Dandruff, 200 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>1724</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01393"><model>Имбирь шампунь 500 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="25"/></stocks><price>1470</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01395"><model>Жидкий бронзер Melted Sun Liquid Bronzer, 005 Tan Lines CATRICE</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>4223</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="01401"><model>Catrice Soft Glam Filter Fluid тональный крем 030 Medium 30 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>6296</price><loanPeriod>3</loanPeriod></offer>
@@ -390,7 +390,7 @@
 <offer sku="02068"><model>Премиум-крем с золотом и муцином улитки Medi-Peel 24K Gold Snail Cream</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>12513</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02074"><model>Регенерирующий крем с муцином улитки для ухода за зрелой кожей Farmsta</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="9"/></stocks><price>6175</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02075"><model>Солнцезащитный крем для лица Cellio Green Tea SPF50, 70 г</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>1606</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="02082"><model>Пуховка для пудры 1шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="31"/></stocks><price>696</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="02082"><model>Пуховка для пудры 1шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="31"/></stocks><price>695</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02085"><model>Пудра матирующая Mattifying compact powder brighten up! Banana powder,</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2478</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02086"><model>Пудра Gabrini BB Powder сухая 02 бежевый</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1701</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02087"><model>Пудра ART SOFFIO FULL COVERAGE сухая СР-039-01 Светлый бежевый</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2175</price><loanPeriod>3</loanPeriod></offer>
@@ -452,7 +452,7 @@
 <offer sku="02348"><model>Пластырь бактерицидный Nuoning 1 шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="14"/></stocks><price>163</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02351"><model>Капсулы для суставов Монталин Montalin 40 кап</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>4844</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02372"><model>Эликсир Шуан Хуан Лянь шхл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="45"/></stocks><price>2925</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="02381"><model>Антигриппин</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="811"/></stocks><price>425</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="02381"><model>Антигриппин</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="803"/></stocks><price>425</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02382"><model>Эпимедиумная паста Herbal Mixed Paste Q7 MAXIMUM (240 гр, Турция)</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02385"><model>Оздоровительный шампунь Mingtao Herbal 800 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>3247</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02398"><model>Сила императора | 2 шт ШТУЧНО</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="70"/></stocks><price>508</price><loanPeriod>3</loanPeriod></offer>
@@ -587,7 +587,7 @@
 <offer sku="02893"><model>Отбеливающая зубная паста White Plus Expert Pharma</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2700</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02895"><model>Детская ароматическая вода для тела и волос Glam Kitty</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="13"/></stocks><price>1333</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02897"><model>Себорегулирующий лёгкий солнцезащитный крем Celimax Oil Control Light </model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>9648</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="02899"><model>Солнцезащитная сыворотка SKIN1004 Madagascar Centella Hyalu-Cica Water</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>11058</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="02899"><model>Солнцезащитная сыворотка SKIN1004 Madagascar Centella Hyalu-Cica Water</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02904"><model>Спрей-антиперспирант для мужчин Cool Control</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2700</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02905"><model>Спрей-антиперспирант для мужчин Classic Wood</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>2040</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="02914"><model>Сахарная паста</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>3900</price><loanPeriod>3</loanPeriod></offer>
@@ -670,9 +670,9 @@
 <offer sku="03192"><model>Увлажняющий крем против жирного блеска Celimax Oil Control Moisturizin</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>13524</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03193"><model>Солнцезащитный крем с комплексом церамидов Celimax Dual Barrier Watery</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>9380</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03195"><model>Подтягивающая сыворотка с ретинолом и микроиглами Celimax The Vita-A R</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>11931</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03196"><model>Гель-пенка для умывания с комплексом церамидов Celimax Dual Barrier Mi</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>11640</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03197"><model>Барьерный крем с комплексом церамидов Celimax Dual Barrier Skin Wearab</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>12420</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03198"><model>Барьерная сыворотка-бустер с комплексом церамидов Celimax Dual Barrier</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>12222</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03196"><model>Гель-пенка для умывания с комплексом церамидов Celimax Dual Barrier Mi</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>11640</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03197"><model>Барьерный крем с комплексом церамидов Celimax Dual Barrier Skin Wearab</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>12420</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03198"><model>Барьерная сыворотка-бустер с комплексом церамидов Celimax Dual Barrier</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>12222</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03199"><model>Mippeum Коллагеновое желе с ягодами годжи, 15 стиков, Goji Berry Colla</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>8935</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03203"><model>Фиксирующий спрей с эффектом сияния Shake Fix Glow Spray CATRICE</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>4223</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03204"><model>тушь д\ресниц Cabaret Noir Arabique ультра черная</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>5938</price><loanPeriod>3</loanPeriod></offer>
@@ -733,9 +733,9 @@
 <offer sku="03313"><model>Solo man Aromasq 50 ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="23"/></stocks><price>4990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03314"><model>Rare Aromasq 50 ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>3990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03318"><model>Шейкеры Камиль Herbalife</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>4050</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03328"><model>Catrice Карандаш для бровей All In One Brow Perfector 10 Blonde</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>2266</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03328"><model>Catrice Карандаш для бровей All In One Brow Perfector 10 Blonde</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>2262</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03332"><model>Q7 эпимедиумная паста 50 гр</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>3600</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03334"><model>Успокаивающий крем с ресвератролом Dr. Althea 345 Relief Cream</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="9"/></stocks><price>14076</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03334"><model>Успокаивающий крем с ресвератролом Dr. Althea 345 Relief Cream</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>14076</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03339"><model>ART SOFFIO Magic Brilliance помада 703 Весеннее утро</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1824</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03354"><model>Жидкие сияющие тени для век Le Carrousel Magique</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2250</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03355"><model>La Carrousel Magique жидкие тени д\век парча Фонтенбло</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>2250</price><loanPeriod>3</loanPeriod></offer>
@@ -773,7 +773,7 @@
 <offer sku="03426"><model>Увлажняющая пенка для умывания AXIS-Y Sunday Morning Refreshing Cleans</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>7946</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03428"><model>Пудра компактная Catrice Sun Lover Glow Bronzing Powder Бронзирующая с</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>4223</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03429"><model>Хайлайтер для лица Catrice More Than Glow Highlighter (5,9 г) - 010 Ul</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>4248</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03431"><model>Бальзам для губ ESSENCE Juicy Bomb glossy butter balm, тон 05</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>2186</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03431"><model>Бальзам для губ ESSENCE Juicy Bomb glossy butter balm, тон 05</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>2182</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03432"><model>Блеск для губ Essence Chili Bomb 01 Strawberry Salsa</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1433</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03435"><model>Бронзер Soft Touch Butter Bronzer, 20 golden buttercream essence</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2476</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03437"><model>Карандаш для губ 8h matte comfort lipliner, 19 Burgundy Bestie essence</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1673</price><loanPeriod>3</loanPeriod></offer>
@@ -854,7 +854,7 @@
 <offer sku="03608"><model>Парфюмированная вода для женщин Fla Via Belle Flavia</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>18950</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03609"><model>Aroma Rouge Aromasq 50 ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="21"/></stocks><price>3990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03610"><model>Парфюмерная вода Adisha Magie Noire, 100 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>12000</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03615"><model>Nurtaxin Artroflex Easy Move - витамины для суставов и хрящей 30 пакет</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>11978</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03615"><model>Nurtaxin Artroflex Easy Move - витамины для суставов и хрящей 30 пакет</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>12352</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03623"><model>Благовония free Vani 8 шт Пачули</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="22"/></stocks><price>504</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03627"><model>Благовония free Vani 8 шт Удачи</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="22"/></stocks><price>504</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03630"><model>Благовония free Vani 8 шт Жасмин</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="22"/></stocks><price>504</price><loanPeriod>3</loanPeriod></offer>
@@ -929,7 +929,7 @@
 <offer sku="03823"><model>Масло для волос «Укрепление и питание» Salon Care 30 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>4500</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03824"><model>Стойкая крем-краска для волос Faberlic Expert тон 7.17</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>2940</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03836"><model>подставка для благовоний</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>1328</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03838"><model>Санскрин с берёзовым соком Round Lab Birch Juice Moisturizing Mild-Up </model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>11058</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03838"><model>Санскрин с берёзовым соком Round Lab Birch Juice Moisturizing Mild-Up </model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03839"><model>Лёгкий минеральный санскрин AXIS-Y Complete No-Stress Physical Sunscre</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03840"><model>Тряпка в рулоне 20 шт, микрофибра | Камиль</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="54"/></stocks><price>4050</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03841"><model>Спрей-объем для волос c морской солью Volume &amp; Style</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2400</price><loanPeriod>3</loanPeriod></offer>
@@ -984,8 +984,8 @@
 <offer sku="03918"><model>Concealer Hydrating Longwear Silky Blur 180</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>3159</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03919"><model>Concealer Hydrating Longwear Silky Blur 20,</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>3159</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03929"><model>Лак для ногтей gel nail polish, 16 essence</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1673</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03931"><model>Лак для ногтей Essence Gel Nail Polish тон 21 Bubble Rush, 8 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>1686</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="03933"><model>Лак для ногтей gel nail polish, 25 essence</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>1688</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03931"><model>Лак для ногтей Essence Gel Nail Polish тон 21 Bubble Rush, 8 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>1682</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="03933"><model>Лак для ногтей gel nail polish, 25 essence</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>1684</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03935"><model>Essence gel nail polish 31 SKY’S THE LIMIT</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1673</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03939"><model>Gel nail polish Nail - 39: Cool By The Pool</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2655</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="03943"><model>Масло для губ Essence Hydra Kiss Lip Oil тон 10 Sugar Sparkle, 4 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>2925</price><loanPeriod>3</loanPeriod></offer>
@@ -1035,7 +1035,7 @@
 <offer sku="04029"><model>Darshan благовония палочки Good Fortune 20 шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>1498</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04036"><model>Влажные салфетки, фруктовые в ассортименте 15 шт Flovell Care</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="46"/></stocks><price>254</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04037"><model>детские влажные салфетки ALTYN BALA 8шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="236"/></stocks><price>315</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04039"><model>super увеличение 10 таб</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>1740</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04039"><model>super увеличение 10 таб</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>1740</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04044"><model>Детские влажные салфетки Altyn Bala Altyn Bala 64 шт | Набор КМ 159499</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="28"/></stocks><price>768</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04050"><model>essence Lipgloss What The Fluff?! 01 Cloudy Kiss, 10 ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>3810</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04051"><model>*What The Fluff?!* - Mattifying Facial Balm On Cloud Candy</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>4962</price><loanPeriod>3</loanPeriod></offer>
@@ -1064,11 +1064,11 @@
 <offer sku="04092"><model>Aromasq Good Girl 50ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>3990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04093"><model>Aromasq  A1072 100ml женский</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>3998</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04094"><model>AQUARIUS LA STEE 100ml мужской парфюм</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>9000</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04095"><model>COSMO маска для лица с экстратом зеленого яблока. Увлажняет и питает к</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2796</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04095"><model>COSMO маска для лица с экстратом зеленого яблока. Увлажняет и питает к</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2794</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04096"><model>Cosmo - Очищающая маска для лица с нимом, 125 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>2100</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04097"><model>Традиционная травяная маска для лица Cosmo Optin, 125 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2164</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04098"><model>Маска для лица Cosmo Mulberry 125 г – осветляющая и антиоксидантная ма</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>2951</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04099"><model>Cosmo - Маска для лица для удаления загара с апельсином, 125 мл отбели</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="9"/></stocks><price>2948</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04097"><model>Традиционная травяная маска для лица Cosmo Optin, 125 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2162</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04098"><model>Маска для лица Cosmo Mulberry 125 г – осветляющая и антиоксидантная ма</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>2949</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04099"><model>Cosmo - Маска для лица для удаления загара с апельсином, 125 мл отбели</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="9"/></stocks><price>2946</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04101"><model>BRIGHT CRYSTAL 80ml LA STEE</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>14541</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04102"><model>Шоколадный / Кофейный гель для душа Reveal (1000 мл)</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>7425</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04103"><model>Revel Coconut Shower Gel (Гель для душа Revel с кокосом) объемом 1000 </model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>7425</price><loanPeriod>3</loanPeriod></offer>
@@ -1092,7 +1092,7 @@
 <offer sku="04129"><model>Отшелушивающая маска для лица с гранатом, 170 мл BIO LUXE</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>4500</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04130"><model>Мужской спрей для тела Club De Nuit Sillage 200ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>3500</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04132"><model>индийская благовония  Darshan Fast Luck (Быстрая удача) в шестигранной</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>768</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04138"><model>Нутраксин Коллаген 30 саше 10000 мг166384478_057908762</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>13694</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04138"><model>Нутраксин Коллаген 30 саше 10000 мг166384478_057908762</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>14119</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04141"><model>Vitacare Chromium Picolinate 200 mcg (Пиколинат хрома, 90 таблеток).</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2520</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04144"><model>солнцезащитный крем для лица Cosmolive Sunscreen 100% Natural Water Ba</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>4100</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04145"><model>увлажняющий тонер для лица Cosmolive Hydro Up Facial Hydrating Toner (</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>4990</price><loanPeriod>3</loanPeriod></offer>
@@ -1150,9 +1150,9 @@
 <offer sku="04207"><model>Ночная антивозрастная сыворотка против морщин Bioxcin Age Reverse</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="11"/></stocks><price>6500</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04209"><model>Ночной антивозрастной крем Bioxcin AGE REVERSE - 50 мл (интенсивный ух</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>7430</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04210"><model>Сыворотка для бровей и ресниц Bioxcin для увеличения густоты и роста в</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="19"/></stocks><price>4989</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04211"><model>Артрофлекс Нутраксин комплекс для суставов Nutraxin Artroflex Hya C-II</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>11054</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04211"><model>Артрофлекс Нутраксин комплекс для суставов Nutraxin Artroflex Hya C-II</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>11535</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04212"><model>VITACARE calcium+K2 кальций.магний.комплекс витаминов  без глютена и с</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="14"/></stocks><price>4990</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04213"><model>Порошок коллагенового комплекса Nutraxin, 330 г 10000 мг</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>11092</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04213"><model>Порошок коллагенового комплекса Nutraxin, 330 г 10000 мг</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>11564</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04214"><model>Nutraxin Collagen Beauty Complex 90 Tablets</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="15"/></stocks><price>8035</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04215"><model>Глутатион с Ресвератрол Nutraxin 60 таблеток</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="14"/></stocks><price>6240</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04217"><model>мужской мультивитаминный  комплекс Vitacare Active Men (60 таблеток).</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="33"/></stocks><price>11860</price><loanPeriod>3</loanPeriod></offer>
@@ -1218,7 +1218,7 @@
 <offer sku="04292"><model>SHARMEL Скульптор Estrade компактный №214 7 гр</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>3919</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04295"><model>Medi-Peel Капсульный крем с ПДРН и микроиглами Phyto EX PDRN Lifting S</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>14904</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04296"><model>Увлажняющий тоник для выравнивания тона SKIN1004 Madagascar Centella H</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>12696</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04297"><model>Увлажняющая стартер-ампула с центеллой SKIN1004 Madagascar Centella Hy</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>11058</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04297"><model>Увлажняющая стартер-ампула с центеллой SKIN1004 Madagascar Centella Hy</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04298"><model>Лёгкий гель-крем для сужения пор Skin1004 Madagascar Centella Poremizi</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>11640</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04299"><model>Тональная основа кушон Missha Magic Cushion Cover Lasting SPF 50+ PA++</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>6500</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04300"><model>Cыворотка для сияния и упругости кожи DR ALTHEA ABC GLOW WHIPPED SERUM</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>12222</price><loanPeriod>3</loanPeriod></offer>
@@ -1243,7 +1243,7 @@
 <offer sku="04338"><model>ART SOFFIO Matte Color помада-карандаш 05 Raspberry Chic</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>1343</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04342"><model>4пудра компактная ART SOFFIO 04 Natural BeigeНатуральный Бежевый</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>3765</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04343"><model>KOLORIS CLASSIC KL-5-11 карандаш д/губ страсть 11</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>345</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04345"><model>леденцы для горла золотая пластина 12 шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="16"/></stocks><price>3150</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04345"><model>леденцы для горла золотая пластина 12 шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="14"/></stocks><price>3150</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04346"><model>Тонер с ретиналем и микроиглами Celimax The Vita-A Retinal Shot Tighte</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>12804</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04347"><model>Тонирующий солнцезащитный крем Round Lab Birch Juice Moisturizing Tone</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>9112</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04348"><model>Medi-Peel Омолаживающий тонер с ретинолом и коллагеном Retinol Collage</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
@@ -1257,7 +1257,7 @@
 <offer sku="04361"><model>Спрей-пятновыводитель Faberlic Soo-Yun с энзимами</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>1624</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04362"><model>natural линчжи</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>4200</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04363"><model>Даршан Сандал Майсур Агарбати 20 шт.</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>1198</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04365"><model>Помада для губ Ruta GLAMOUR увлажняющая тон 34 секрет совершенства</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2472</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04365"><model>Помада для губ Ruta GLAMOUR увлажняющая тон 34 секрет совершенства</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2470</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04367"><model>Mippeum Коллагеновые стик со вкусом голубики 15шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>8935</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04368"><model>Mippeum Mango Collagen Jelly stick Морской Коллаген желе-стик с Манго,</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="17"/></stocks><price>8935</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04369"><model>Mippeum Коллагеновые стики со вкусом клубники 15шт</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="12"/></stocks><price>8339</price><loanPeriod>3</loanPeriod></offer>
@@ -1368,7 +1368,7 @@
 <offer sku="04506"><model>SIGNATURE COLLECTION кирки 90мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="10"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04507"><model>SIGNATURE COLLECTION эклат 90мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>9990</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04508"><model>VENTURE LA STEE 100ml</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="4"/></stocks><price>7226</price><loanPeriod>3</loanPeriod></offer>
-<offer sku="04509"><model>La Parfum Galleria Andreada парфюмерная вода унисекс 100 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>8725</price><loanPeriod>3</loanPeriod></offer>
+<offer sku="04509"><model>La Parfum Galleria Andreada парфюмерная вода унисекс 100 мл</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>8715</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04510"><model>MNL Набор парфюмерный Дуэт ароматов для неё: Signature Collection 90 м</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="10"/></stocks><price>12610</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04511"><model>MNL Набор парфюмерный Дуэт ароматов для него: Aromasq Solo Man 50 мл +</model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="7"/></stocks><price>8710</price><loanPeriod>3</loanPeriod></offer>
 <offer sku="04512"><model>MNL Набор парфюмерный Трио ароматов 3x50 мл: Aromasq Afrique + Verite </model><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="12"/></stocks><price>12720</price><loanPeriod>3</loanPeriod></offer>
