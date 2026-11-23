@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merchant_offers date="2026-11-23T19:50:01+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<merchant_offers date="2026-11-23T20:50:01+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <company>Minel</company><merchantid>47791</merchantid><offers>
 <offer sku="00002"><model>BERGAMO Magic Snail BB SPF 50 крем Универсальный</model><barcodes><barcode>8809180015772</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="19"/></stocks><price>3820</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="00004"><model>Aromasq A 1009 EDP 100 ml</model><brand>Aromasq</brand><barcodes><barcode>6290102018063</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2300</price><loanPeriod>12</loanPeriod></offer>
@@ -1000,7 +1000,6 @@
 <offer sku="03961"><model>Карандаш для глаз Long lasting, 40 roasted chestnut essence</model><brand>Essence</brand><barcodes><barcode>4059729583376</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1490</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03962"><model>Сыворотка для роста ресниц what the length! lash growth serum essence</model><brand>Essence</brand><barcodes><barcode>4059729583185</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>4220</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03963"><model>Тени для век моно mono eyeshadow glitter, 01 Frosted Shine essence</model><brand>Essence</brand><barcodes><barcode>4059729583529</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1940</price><loanPeriod>12</loanPeriod></offer>
-<offer sku="03964"><model>essence mono eyeshadow glitter 02 - Rosy Sparkle</model><brand>Essence</brand><barcodes><barcode>4059729583543</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>1910</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03965"><model>essence mono eyeshadow matte 01 - Soft Beige</model><brand>Essence</brand><barcodes><barcode>4059729583437</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>1800</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03966"><model>essene mono eyeshadow matte 02 - Neutral Brown</model><brand>Essence</brand><barcodes><barcode>4059729583444</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="8"/></stocks><price>1800</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03967"><model>essence mono eyeshadow pearly 01 - Golden Glow</model><brand>Essence</brand><barcodes><barcode>4059729583468</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>1800</price><loanPeriod>12</loanPeriod></offer>
