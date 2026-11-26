@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merchant_offers date="2026-11-26T21:50:00+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<merchant_offers date="2026-11-26T22:50:00+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <company>Minel</company><merchantid>47791</merchantid><offers>
 <offer sku="00002"><model>BERGAMO Magic Snail BB SPF 50 крем Универсальный</model><brand>BERGAMO</brand><barcodes><barcode>8809180015772</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="19"/></stocks><price>3820</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="00004"><model>Aromasq A 1009 EDP 100 ml</model><brand>Aromasq</brand><barcodes><barcode>6290102018063</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2300</price><loanPeriod>12</loanPeriod></offer>
@@ -848,7 +848,7 @@
 <offer sku="03565"><model>Капсульный осветляющий крем с центеллой SKIN1004 Madagascar Centella T</model><barcodes><barcode>8809576261615</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>14350</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03568"><model>Пакет полиэтилен большой Classic</model><barcodes><barcode>2000000093154</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="5"/></stocks><price>560</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03573"><model>Блеск для губ Gabrini Matte Lipgloss 24</model><brand>Gabrini</brand><barcodes><barcode>8696814074966</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2100</price><loanPeriod>12</loanPeriod></offer>
-<offer sku="03574"><model>Блеск для губ Gabrini Matte Lipgloss 10</model><brand>Gabrini</brand><barcodes><barcode>8696814074812</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2100</price><loanPeriod>12</loanPeriod></offer>
+<offer sku="03574"><model>Блеск для губ Gabrini Matte Lipgloss 10</model><brand>Gabrini</brand><barcodes><barcode>8696814074812</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>2100</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03577"><model>Консилер жидкий Gabrini Liquid тон 03</model><brand>Gabrini</brand><barcodes><barcode>8696814046024</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="3"/></stocks><price>1700</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03582"><model>Пептидный бальзам-сыворотка для губ It’s Collagen</model><barcodes><barcode>4690302799373</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="2"/></stocks><price>2040</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="03584"><model>Экспресс-корректор для кожи вокруг глаз Beauty Lab</model><barcodes><barcode>4650474010560</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="1"/></stocks><price>6500</price><loanPeriod>12</loanPeriod></offer>
