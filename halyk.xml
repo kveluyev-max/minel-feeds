@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merchant_offers date="2026-11-27T01:50:00+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<merchant_offers date="2026-11-27T02:50:00+05:00" xmlns="halyk_market" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <company>Minel</company><merchantid>47791</merchantid><offers>
 <offer sku="00002"><model>BERGAMO Magic Snail BB SPF 50 крем Универсальный</model><brand>BERGAMO</brand><barcodes><barcode>8809180015772</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="19"/></stocks><price>3820</price><loanPeriod>12</loanPeriod></offer>
 <offer sku="00004"><model>Aromasq A 1009 EDP 100 ml</model><brand>Aromasq</brand><barcodes><barcode>6290102018063</barcode></barcodes><stocks><stock storeId="Minel_pp1" available="yes" stockLevel="6"/></stocks><price>2300</price><loanPeriod>12</loanPeriod></offer>
